@@ -5,7 +5,7 @@ import pickle
 st.write("""
 # expenses Prediction App
 
-This app predicts the **insurance expenses** type!
+This app predicts the **Insurance** type!
 """)
 
 st.sidebar.header('User Input Parameters')
